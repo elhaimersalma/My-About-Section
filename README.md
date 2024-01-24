@@ -1,5 +1,5 @@
 # ABOUT ME
-Hello👋I'm SALMA ELHAIMER
+Hello!👋 I'm SALMA ELHAIMER
 ===========================
 
 Data/Finance Engineering Student & AI Enthusiast
@@ -12,13 +12,11 @@ Data/Finance Engineering Student & AI Enthusiast
 
 ✉️ You can reach out to me at salma_elhaimer2@um5.ac.ma.
 
-🧠 I am constantly expanding my skills in R, React.js,Finance, Tableau,ML,MLops.
+🧠 I am constantly expanding my skills in R, React.js, Finance, Tableau, ML, MLOps, PHP, Spring Boot, MongoDB, PostgreSQL, HTML, CSS, Bootstrap, XAMPP, Java, R, Git, and GitHub.
 
 🤝 I am open to collaborations on Data and Finance projects.
 
-⚡ If I did not have the courage to follow my thought, then I would have more than one thing to do: follow the thought of the individual who had the determination 
-to follow his.
-
+⚡ If I did not have the courage to follow my thought, then I would have more than one thing to do: follow the thought of the individual who had the determination to follow his.
 
 ### Skills
 
@@ -38,13 +36,10 @@ to follow his.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-
 🌱 Continuous learning is a core value for me, and I'm always exploring new technologies, frameworks, and methodologies to stay up-to-date with the rapidly evolving landscape of data and finance engineering. I'm excited about collaborating with like-minded individuals and contributing to open-source projects that push the boundaries of data-driven finance.
-
 
 ### Socials
 
 📫 Let's connect! Feel free to reach out to me on [GitHub](https://github.com/elhaimersalma) or [LinkedIn](https://www.linkedin.com/in/salma-elhaimer-b06550244/) to discuss exciting opportunities, collaborations, or simply to geek out about data and finance. I'm enthusiastic about contributing to and learning from the vibrant tech and finance communities!
-
 
 🚀 Let's transform data into actionable insights and drive the future of finance together! 💡✨

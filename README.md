@@ -1,6 +1,9 @@
-#ABOUT ME
-Hello!👋 I'm SALMA ELHAIMER
+# ABOUT ME
+Hello👋I'm SALMA ELHAIMER
+===========================
+
 Data/Finance Engineering Student & AI Enthusiast
+================================================
 👋 Hi there! I'm a passionate data and finance engineering student with a keen interest in leveraging technology and analytics to drive impactful financial solutions.📊💻
 
 🎓 Currently pursuing my studies in the National School of Computer Science and Systems Analysis, I am equipped with a strong foundation in both data science and finance. I enjoy working at the intersection of these fields, exploring how data-driven insights can optimize financial strategies, risk assessment, and decision-making processes.
@@ -9,11 +12,12 @@ Data/Finance Engineering Student & AI Enthusiast
 
 ✉️ You can reach out to me at salma_elhaimer2@um5.ac.ma.
 
-🧠 I am constantly expanding my skills in R, React.js, Finance, Tableau, ML, MLOps, PHP, Spring Boot, MongoDB, PostgreSQL, HTML, CSS, Bootstrap, XAMPP, Java, R, Git, and GitHub.
+🧠 I am constantly expanding my skills in R, React.js,Finance, Tableau,ML,MLops.
 
 🤝 I am open to collaborations on Data and Finance projects.
 
-⚡ If I did not have the courage to follow my thought, then I would have more than one thing to do: follow the thought of the individual who had the determination to follow his.
+⚡ If I did not have the courage to follow my thought, then I would have more than one thing to do: follow the thought of the individual who had the determination 
+to follow his.
 
 ### Skills
 

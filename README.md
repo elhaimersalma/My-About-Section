@@ -1,9 +1,6 @@
-# ABOUT ME
+#ABOUT ME
 Hello!👋 I'm SALMA ELHAIMER
-===========================
-
 Data/Finance Engineering Student & AI Enthusiast
-================================================
 👋 Hi there! I'm a passionate data and finance engineering student with a keen interest in leveraging technology and analytics to drive impactful financial solutions.📊💻
 
 🎓 Currently pursuing my studies in the National School of Computer Science and Systems Analysis, I am equipped with a strong foundation in both data science and finance. I enjoy working at the intersection of these fields, exploring how data-driven insights can optimize financial strategies, risk assessment, and decision-making processes.
@@ -34,6 +31,15 @@ Data/Finance Engineering Student & AI Enthusiast
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
+<a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" alt="XAMPP" width="40" height="40"/></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
 🌱 Continuous learning is a core value for me, and I'm always exploring new technologies, frameworks, and methodologies to stay up-to-date with the rapidly evolving landscape of data and finance engineering. I'm excited about collaborating with like-minded individuals and contributing to open-source projects that push the boundaries of data-driven finance.
@@ -43,3 +49,5 @@ Data/Finance Engineering Student & AI Enthusiast
 📫 Let's connect! Feel free to reach out to me on [GitHub](https://github.com/elhaimersalma) or [LinkedIn](https://www.linkedin.com/in/salma-elhaimer-b06550244/) to discuss exciting opportunities, collaborations, or simply to geek out about data and finance. I'm enthusiastic about contributing to and learning from the vibrant tech and finance communities!
 
 🚀 Let's transform data into actionable insights and drive the future of finance together! 💡✨
+
+

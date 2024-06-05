@@ -1,22 +1,23 @@
 # ABOUT ME
-Hello👋I'm SALMA ELHAIMER
-===========================
+Hello 👋, I'm SALMA ELHAIMER
+============================
 
-Data/Finance Engineering Student & AI Enthusiast
+Junior Data Analyst / Finance & Business Analytics & Software Development Enthusiast
 ================================================
-👋 Hi there! I'm a passionate data and finance engineering student with a keen interest in leveraging technology and analytics to drive impactful financial solutions.📊💻
 
-🎓 Currently pursuing my studies in the National School of Computer Science and Systems Analysis, I am equipped with a strong foundation in both data science and finance. I enjoy working at the intersection of these fields, exploring how data-driven insights can optimize financial strategies, risk assessment, and decision-making processes.
+👋 Hi there! I'm a passionate data and finance engineering student with a keen interest in leveraging technology and analytics to drive impactful financial solutions. 📊💻
+
+🎓 **Currently pursuing my studies at the National School of Computer Science and Systems Analysis**, I am equipped with a strong foundation in both data science and finance. I enjoy working at the intersection of these fields, exploring how data-driven insights can optimize financial strategies, risk assessment, and decision-making processes.
 
 🌍 I am located in Rabat, Morocco.
 
-✉️ You can reach out to me at salma_elhaimer2@um5.ac.ma.
+✉️ You can reach out to me at [salma_elhaimer2@um5.ac.ma](mailto:salma_elhaimer2@um5.ac.ma).
 
-🧠 I am constantly expanding my skills in R, React.js, Finance, Tableau, ML, MLOps.
+🧠 I am constantly expanding my skills in LLMs , Sales force , Finance, Business Analytics .
 
-🤝 I am open to collaborations on Data and Finance projects.
+🤝 I am open to collaborations on Data Science or Software Development projects.
 
-⚡ If I did not have the courage to follow my thought, then I would have more than one thing to do: follow the thought of the individual who had the determination to follow his.
+⚡ "If I did not have the courage to follow my thought, then I would have more than one thing to do: follow the thought of the individual who had the determination to follow his."
 
 ### Skills
 
@@ -50,4 +51,4 @@ Data/Finance Engineering Student & AI Enthusiast
 
 📫 Let's connect! Feel free to reach out to me on [GitHub](https://github.com/elhaimersalma) or [LinkedIn](https://www.linkedin.com/in/salma-elhaimer-b06550244/) to discuss exciting opportunities, collaborations, or simply to geek out about data and finance. I'm enthusiastic about contributing to and learning from the vibrant tech and finance communities!
 
-🚀 Let's transform data into actionable insights and drive the future of finance together! 💡✨
+🚀 Let's transform data into actionable insights and drive the future of tomorrow together! 💡✨

@@ -12,12 +12,11 @@ Data/Finance Engineering Student & AI Enthusiast
 
 ✉️ You can reach out to me at salma_elhaimer2@um5.ac.ma.
 
-🧠 I am constantly expanding my skills in R, React.js,Finance, Tableau,ML,MLops.
+🧠 I am constantly expanding my skills in R, React.js, Finance, Tableau, ML, MLOps.
 
 🤝 I am open to collaborations on Data and Finance projects.
 
-⚡ If I did not have the courage to follow my thought, then I would have more than one thing to do: follow the thought of the individual who had the determination 
-to follow his.
+⚡ If I did not have the courage to follow my thought, then I would have more than one thing to do: follow the thought of the individual who had the determination to follow his.
 
 ### Skills
 
@@ -34,7 +33,7 @@ to follow his.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
@@ -52,5 +51,3 @@ to follow his.
 📫 Let's connect! Feel free to reach out to me on [GitHub](https://github.com/elhaimersalma) or [LinkedIn](https://www.linkedin.com/in/salma-elhaimer-b06550244/) to discuss exciting opportunities, collaborations, or simply to geek out about data and finance. I'm enthusiastic about contributing to and learning from the vibrant tech and finance communities!
 
 🚀 Let's transform data into actionable insights and drive the future of finance together! 💡✨
-
-
